@@ -24,7 +24,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 - **Harriton High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2022
 
 ---
 
