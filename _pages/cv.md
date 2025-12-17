@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: May, 2026
+  GPA: 3.610/4.0 | Graduation: May, 2026
 
 - **Harriton High School**  
   *High School Diploma*  

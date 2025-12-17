@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Allison Liao
 ---
 
 ## About Me
@@ -9,8 +9,6 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My name is {{ site.name }}, and I am a senior undergraduate studying Mechanical Engineering at Cornell University. I will be pursuing a Masters in Engineering with a Design concentration starting Spring 2026 semester. At Cornell University I am a part of various clubs such as Cornell Design Build Fly, the Beta Chi Chapter of Alpha Omega Epsilon, and Cornell Club Tennis. I am interested in the aerospace, renewable energy, and manufacturing industries and particularly enjoy working with carbon fiber layups and CAD softwares. Outside of academics I am an avid puzzler and enjoy various art medias from calligraphy to painting.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects and <a href="{{ "/cv/" | relative_url }}">CV.
