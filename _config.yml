@@ -11,13 +11,19 @@ locale                   : "en-US"
 title                    : Allison Liao
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
+<<<<<<< HEAD
+name                     : Allison Liao
+description              : Allison Liao - Projects and CV 
+baseurl                  : "" # Set this to your repo name 
+=======
 name                     : Allison Liao
 description              : Allison Liao - Projects and CV 
 baseurl                  : "/fa25-portfolio-al2246" # Set this to your repo name 
+>>>>>>> b9a41a4aa8c278c31a302276a5fb44064892a7e8
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: dark # light/default, dark, or aqua
 
 sass:
   style: compressed
