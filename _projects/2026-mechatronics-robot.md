@@ -2,7 +2,7 @@
 layout: project
 title: Cube Craze Robot
 description: MAE 3780 Robot Competition
-technologies: [NA]
+technologies: [Arduino UNO, C++, Fusion 360]
 image: /assets/images/robot.jpeg
 ---
 
@@ -22,8 +22,7 @@ While working on the code for the competition we originally wanted our robot to 
 
 
 ## Competition Analysis
-Our first 3 rounds did not go to plan since we did not check the voltage of the new battery we were given before the competition. As a result, the voltage was not high enough and our robot did not move at all or it would only slowly inch forward. Once we 
- went terribly, we did not check the voltage of the battery we were given because in the rules it said that a new 9V battery would be given to us and so our robot did not start at all because the battery was dead. We rapidly switched batteries with a bit of a higher voltage but it still was not quite 9V and so for the next 2 rounds our robot was unable to turn and would only move forward very not smoothly. When we finally switched back to the battery we had originally used when testing our robot ran as intended because the voltage was indeed 9V. After this switch our robot successfully moved across the center of the board to collect blocks and would continue to drive around. We were pleasantly surprised with how the robot responded when in contact with the other robot. We thought our robot would be the one getting pushed, but our robot was actually robust enough to keep moving and eventually push the other robot out of the way. One thing that was not ideal, but not the end of the world, was that our two front QTI sensors would sometimes both sense black when only one was on black and thus stopping our robot. It would have been nice to keep driving around and potentially collect more blocks, but it was able to keep the initial blocks collected during our starting sequence in our robot perimeter. 
+Our first 3 rounds did not go to plan since we did not check the voltage of the new battery we were given before the competition. As a result, the voltage was not high enough and our robot did not move at all or it would only slowly inch forward. Once we replaced the 9 V battery with a battery that was actually 9 V our robot ran as intended. Our robot successfully moved across the center of the board to collect blocks and would continue to drive around. We were pleasantly surprised with how the robot responded when in contact with the other robot. We thought our robot would be the one getting pushed, but our robot was actually robust enough to keep moving and eventually push the other robot out of the way. One thing that was not ideal, but not the end of the world, was that our two front QTI sensors would sometimes both sense black when only one was on black and thus stopping our robot. It would have been nice to keep driving around and potentially collect more blocks, but it was able to keep the initial blocks collected during our starting sequence in our robot perimeter. 
 
 
 ## Personal Contributions
