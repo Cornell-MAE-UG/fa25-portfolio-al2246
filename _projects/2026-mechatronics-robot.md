@@ -7,7 +7,7 @@ image: /assets/images/robot.jpeg
 ---
 
 ## Introduction
-For Cornell's mechatronics class we were tasked with designing a robot that would be able to drive on a board and collect more blocks than the opposing robot. 
+For Cornell's mechatronics class we were tasked with designing a robot that would be able to drive on a blue and yellow board with a black border and collect more 1 inch blocks than the opposing robot. We had a budget of $40 and had to fit our robot in an 8 x 8 inch box (length x wdith).
 
 ## Robot Design and Strategy Overview
 My team's robot design strategy was to keep it as simple as possible to limit the amount of issues that might arise. Our robot consists of the given chassis, a surrounding box enclosure with slots for our 3 QTI sensors, and a flap in the front. The flap ensures that the boxes can enter our robot perimeter, but cannot escape when continuing to drive or if we are getting pushed. We have used the small breadboard with the Arduino for wiring our motors and a larger breadboard for wiring our sensors. We used 3 QTI sensors located at the front left, front right, and center back of our robot. Ideally, during the competition our robot will start at an angle and head to the center right of the board then turn and move across the board in one initial pass to collect as many blocks as possible. Then our robot will continue to move forward and turn right or left depending on whether the left or right QTI sensor detects the black border. The robot will drice backwards when the back QTI sensor detects the border. When both the front QTI sensors detect the border the robot will stop. 
@@ -26,3 +26,9 @@ Our first 3 rounds did not go to plan since we did not check the voltage of the 
 
 
 ## Personal Contributions
+- Robot design and competition strategy brainstorming
+- Building the circuit (H-motors and QTI sensors)
+- Assembling the robot chassis and mounting QTI sensors
+- Testing and debugging code for milestones
+- Final report writing (robot design, strategy overview, design process reflection, competition analysis, BOM, flowchart)
+- Decorating the robot
